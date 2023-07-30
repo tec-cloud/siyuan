@@ -679,6 +679,7 @@ interface IConfig {
         assetsSize: number
         cAssetsSize: number
     }
+    communityVersion: boolean
 }
 
 interface IGraphCommon {
